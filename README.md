@@ -1,4 +1,7 @@
 # 6-DoF GraspNet: Variational Grasp Generation for Object Manipulation
+
+This is the branch on commit d65ed69
+
 Implementation of [6-DoF GraspNet](https://arxiv.org/abs/1905.10520) with tensorflow and python. This repo has been tested with python 2.7 and tensorflow 1.12.
 
 # License
