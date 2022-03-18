@@ -1,6 +1,6 @@
 # 6-DoF GraspNet: Variational Grasp Generation for Object Manipulation
 
-This is the branch on commit d65ed69
+This is the branch on commit [d65ed69](https://github.com/NVlabs/6dof-graspnet/tree/d65ed693dcd66bac2bd98968675b452c588fcac6), with the additional script files to run the grasp generation on kinova Gen3 (Follow instructions on its [readme.md](kortex/readme.md)
 
 Implementation of [6-DoF GraspNet](https://arxiv.org/abs/1905.10520) with tensorflow and python. This repo has been tested with python 2.7 and tensorflow 1.12.
 
